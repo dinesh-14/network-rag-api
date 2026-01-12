@@ -1,0 +1,1 @@
+Kubernetes is a container orchestration platfor used to manage containers at scale.
